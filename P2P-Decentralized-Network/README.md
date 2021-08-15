@@ -2,7 +2,7 @@
 
 # Project Guidelines 
 
-Please refer document with detailed guidelines (P2P.pdf) to implement this project.
+Please refer  (P2P.pdf)  for detailed guidelines to run this project.
 
 # The Tit-For-Tat Transfer Protocol
 
